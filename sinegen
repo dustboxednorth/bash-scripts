@@ -1,0 +1,6 @@
+echo Freq:
+read varname
+pactl load-module module-sine frequency=$varname
+sleep 0.5s
+pactl unload-module module-sine
+sleep 1s
