@@ -1,3 +1,4 @@
+# Plays a sine wave via PulseAudio at a specified frequency and duration
 echo Freq:
 read varname
 pactl load-module module-sine frequency=$varname
