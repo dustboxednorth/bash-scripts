@@ -1,0 +1,22 @@
+clear
+
+boxsay () {
+	cowsay -f dustboxed `fortune`
+}
+
+boxsay
+
+while true; do
+
+read -p "Generate a new fortune? [y/n] " input
+
+if [ $input = "y" ]; 
+then
+	clear
+	boxsay
+else
+	break
+fi
+
+done
+
