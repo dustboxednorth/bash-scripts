@@ -12,4 +12,5 @@ dustboxednorth gives you fortunes
 ![](2020-06-29-190202_1920x1200_scrot.png?raw=true)
 
 ***Dependencies: cowsay, fortune, dustboxed(-eyescompat).cow*** 
+
 *(note: dustboxed-eyescompat.cow provides functionality for cowsay's "eyes" feature)*
