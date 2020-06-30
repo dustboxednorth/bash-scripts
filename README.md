@@ -11,9 +11,9 @@ dustboxednorth gives you fortunes
 
 ![](2020-06-29-190202_1920x1200_scrot.png?raw=true)
 
-Cowfiles are stored in `/usr/share/cowsay/cows/`.
+Cowfiles are stored in `/usr/share/cowsay/cows/`
 
-To add cowfiles, do `sudo mv /path/to/cowfile /usr/share/cowsay/cows/`, the first path being self-explanatory
+To add cowfiles, do `sudo mv /path/to/cowfile /usr/share/cowsay/cows/`
 
 
 ***Dependencies: cowsay, fortune, dustboxed(-eyescompat).cow*** 
