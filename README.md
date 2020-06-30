@@ -9,4 +9,6 @@ Generates a sine wave at a given duration (seconds) and frequency (Hz) with Puls
 ## boxsay
 dustboxednorth gives you fortunes
 
+![](2020-06-29-190202_1920x1200_scrot.png?raw=true)
+
 ***(Dependencies: cowsay, fortune, dustboxed.cow)*** 
