@@ -13,9 +13,7 @@ dustboxednorth gives you fortunes
 
 Cowfiles are stored in `/usr/share/cowsay/cows/`.
 
-To add cowfiles:
-
-`sudo mv /path/to/cowfile /usr/share/cowsay/cows/`
+To add cowfiles, do `sudo mv /path/to/cowfile /usr/share/cowsay/cows/`
 
 
 ***Dependencies: cowsay, fortune, dustboxed(-eyescompat).cow*** 
