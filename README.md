@@ -1,5 +1,5 @@
 # DBN's public bash script collection
-Some bash scripts I've made for your public consumption! 
+Some bash scripts I've made for your consumption! 
 Kind of skimpy as of writing, but you get the point :-)
 
 ## sinegen
